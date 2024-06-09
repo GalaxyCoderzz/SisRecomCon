@@ -1,0 +1,45 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "prefix": "!",
+  "rewards": [
+    {
+      "name": "OWL Token",
+      "points": 100
+    },
+    {
+      "name": "Battle Pass",
+      "points": 500
+    }
+  ],
+  "actions": [
+    {
+      "name": "Participate in an event",
+      "points": 50
+    },
+    {
+      "name": "Help a teammate",
+      "points": 20
+    },
+    {
+      "name": "Complete a special task",
+      "points": 100
+    }
+  ],
+  "events": [
+    {
+      "name": "Summer Event",
+      "date": "2022-07-15",
+      "rewards": [
+        "OWL Token",
+        "Battle Pass"
+      ]
+    },
+    {
+      "name": "Halloween Event",
+      "date": "2022-10-31",
+      "rewards": [
+        "OWL Token"
+      ]
+    }
+  ]
+}

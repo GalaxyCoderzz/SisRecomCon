@@ -1,0 +1,14 @@
+{
+  "name": "contribution-rewards-bot",
+  "version": "1.0.0",
+  "description": "Discord.js bot for managing contribution rewards",
+  "main": "src/bot.js",
+  "scripts": {
+    "start": "node src/bot.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
